@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		40381E9D1A4D0DB200C7238F /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = 40381E9C1A4D0DB200C7238F /* BullsEye.html */; };
 		40A9AC351A3ECA6E00357BA2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A9AC341A3ECA6E00357BA2 /* AppDelegate.swift */; };
 		40A9AC371A3ECA6E00357BA2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A9AC361A3ECA6E00357BA2 /* ViewController.swift */; };
 		40A9AC3A1A3ECA6E00357BA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40A9AC381A3ECA6E00357BA2 /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		40381E9C1A4D0DB200C7238F /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 		40A9AC2F1A3ECA6E00357BA2 /* BullsEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40A9AC331A3ECA6E00357BA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		40A9AC341A3ECA6E00357BA2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		40A9AC311A3ECA6E00357BA2 /* BullsEye */ = {
 			isa = PBXGroup;
 			children = (
+				40381E9C1A4D0DB200C7238F /* BullsEye.html */,
 				40A9AC341A3ECA6E00357BA2 /* AppDelegate.swift */,
 				40A9AC361A3ECA6E00357BA2 /* ViewController.swift */,
 				40A9AC381A3ECA6E00357BA2 /* Main.storyboard */,
@@ -196,6 +199,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				40A9AC3A1A3ECA6E00357BA2 /* Main.storyboard in Resources */,
+				40381E9D1A4D0DB200C7238F /* BullsEye.html in Resources */,
 				40A9AC3F1A3ECA6E00357BA2 /* LaunchScreen.xib in Resources */,
 				40A9AC3C1A3ECA6E00357BA2 /* Images.xcassets in Resources */,
 			);
