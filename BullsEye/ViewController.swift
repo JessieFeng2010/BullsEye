@@ -66,7 +66,7 @@ class ViewController: UIViewController {
             title = "Not Even Close..."
         }
         
-        let message = "The value of the slider is: \(currentValue)" + "\nThe target value is: \(targetValue)" + "\nThe difference if \(difference)" + "\nYou scored \(points) points"
+        let message = "The value of the slider is: \(currentValue)" + "\nThe target value is: \(targetValue)" + "\nThe difference is: \(difference)" + "\nYou scored \(points) points"
         
         let alert = UIAlertController(title: title, message: message, preferredStyle: .Alert)
         
